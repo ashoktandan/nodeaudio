@@ -9,7 +9,6 @@
     "binaryjs": "latest",
     "express": "latest",
     "express-handlebars": "^3.0.0",
-    "jade": "latest",
     "wav": "latest"
   },
   "author": "gabrielpoca"
